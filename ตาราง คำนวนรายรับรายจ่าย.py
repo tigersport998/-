@@ -3,7 +3,7 @@ import tkinter.ttk as ttk
 
 # สร้างหน้าต่าง
 window = tk.Tk()
-window.geometry("400x400")
+window.geometry("1000x400")
 window.title("ตารางเวันเดือนปี รายรับ-รายจ่าย")
 
 # สร้างตาราง
